@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #8888;
+}
+
+form {
+    width: 100%;
+}
+
+.form-container {
+    background-color: #888;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.form-floating {
+    margin-bottom: 15px;
+}
+
+.form-floating input {
+    border-top: none;
+}
+
+.btn-primary {
+    background-color: white;
+    color: black;
+}
+
+.text-body-secondary {
+    color: black;
+}
+
